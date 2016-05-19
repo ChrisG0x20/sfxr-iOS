@@ -2,9 +2,12 @@
 sfxr - Sound Effect Generator by DrPetter, ported to iOS.
 
 ## About
+
 sfxr is a software-based audio synthesizer created by DrPetter for use in Ludum Dare competitions. The program allows anyone to quickly synthesize original sound effects for video games. sfxr as popular among a certain group of independent game developers and other multimedia artists. It may be describe it as having a bit of a cult following.
 The original version was implemented in a straight-forward manner using C, and the SDL library. It was a desktop application.
+
 I was interested in learning more about the native iOS GUI framework, CocoaTouch. Recreating the sfxr GUI in CocoaTouch seemed like a reasonably sized project. It took about a week of part-time work in the evenings. And, one more week of evenings to profile and make the performance acceptable on the older model iPhones; that many of us were still using (I believe, I had an iPhone 3G at the time).
+
 The application was free on Apple’s app store for a couple of years. Thousands of people downloaded it. The source code was hosted by Google code. I’ve since relocated here.
 
 ## Differences From The Original sfxr
